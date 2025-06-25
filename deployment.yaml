@@ -19,7 +19,7 @@ spec:
       automountServiceAccountToken: false
       containers:
         - name: lbgcalc
-          image: YOUR_DOCKERHUB_ID/vat:latest
+          image: qastudent/vat:99
           imagePullPolicy: Always
           resources:
             requests:
