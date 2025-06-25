@@ -19,7 +19,6 @@ spec:
       automountServiceAccountToken: false
       containers:
         - name: lbgcalc
-          image: {{.Values.image}}
           imagePullPolicy: Always
           resources:
             requests:
