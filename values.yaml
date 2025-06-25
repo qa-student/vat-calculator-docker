@@ -1,1 +1,2 @@
 image: qastudent/vat:7
+replicas: 3
