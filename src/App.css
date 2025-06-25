@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 3px solid blueviolet;
   padding: 10px;
 }
 
@@ -14,7 +14,7 @@
 
 body{
   padding: 10px;
-  background-color: yellow;
+  background-color: peachpuff;
 }
 
 footer {
