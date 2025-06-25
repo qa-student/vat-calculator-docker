@@ -1,2 +1,0 @@
-image: qastudent/vat:<+pipeline.sequenceId>
-replicas: 1
