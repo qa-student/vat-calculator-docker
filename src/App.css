@@ -14,10 +14,10 @@
 
 body{
   padding: 10px;
-  background-color: plum;
+  background-color: palegreen;
 }
 
 footer {
-  font-size: small;
-  color: blueviolet;
+  font-size: smaller;
+  color: darkmagenta;
 }
