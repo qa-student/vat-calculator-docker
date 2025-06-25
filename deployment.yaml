@@ -19,7 +19,7 @@ spec:
       automountServiceAccountToken: false
       containers:
         - name: lbgcalc
-          image: qastudent/vat:latest
+          image: qastudent/vat:<+pipeline.sequenceId>
           imagePullPolicy: Always
           resources:
             requests:
