@@ -25,11 +25,11 @@ spec:
             requests:
               memory: "8Mi"
               cpu: "50m"
-              ephemeral-storage: "2Gi"
+              ephemeral-storage: "500Mi"
             limits:
               memory: "16Mi"
               cpu: "100m"
-              ephemeral-storage: "4Gi"
+              ephemeral-storage: "1Gi"
           ports:
           - containerPort: 80
             name: lbgcalc
