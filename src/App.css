@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid magenta;
+  border: 3px solid brown;
   padding: 10px;
 }
 
@@ -14,10 +14,10 @@
 
 body{
   padding: 10px;
-  background-color: cornsilk;
+  background-color: palegreen;
 }
 
 footer {
   font-size: smaller;
-  color: darkmagenta;
+  color: darkolivegreen;
 }
